@@ -34,7 +34,7 @@ Follow these steps to set up and deploy the APOD Action:
 
     ```shell
     npm install
-    npm run deploy
+    npm start
 
 5. **Test the Action**: Test the APOD Action in the Actions on Google Simulator or on a compatible Google Assistant device.
 
