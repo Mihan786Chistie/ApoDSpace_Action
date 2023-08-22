@@ -22,7 +22,7 @@ Follow these steps to set up and deploy the APOD Action:
 2. **Clone the Repository**: Clone this repository to your local machine using Git:
 
    ```shell
-   git clone https://github.com/your-username/apod-action.git
+   git clone https://github.com/Mihan786Chistie/ApoDSpace_Action.git
 
 3. **Configure Firebase**: Set up a Firebase project and configure your project using the Firebase CLI:
 
