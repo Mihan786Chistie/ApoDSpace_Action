@@ -33,6 +33,11 @@ Follow these steps to set up and deploy the APOD Action:
 4. **Deploy the Action**: Deploy the Action to your Google Assistant using the Actions on Google SDK:
 
     ```shell
-    Copy code
     npm install
     npm run deploy
+
+5. **Test the Action**: Test the APOD Action in the Actions on Google Simulator or on a compatible Google Assistant device.
+
+## Resources
+-[NASA APOD API](https://api.nasa.gov/)
+-[Actions on Google Documentation](https://developers.google.com/assistant/docs)
